@@ -1,0 +1,10 @@
+{
+  "prefix": "Z",
+  "logsChannel": "logs",
+  "reportsChannel": "reports",
+
+  "activity": {
+    "streaming": false,
+    "game": "Minekwaft"
+  }
+}

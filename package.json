@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  },
+  "name": "zachary-bot",
+  "version": "1.0.0",
+  "description": "My Discord Bot",
+  "main": "Discord-Bot-Fild.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "!123"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zachary-yt123z/My-Discord-Bot-Zachar-Bot.git"
+  },
+  "author": "Zachary R Zunic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zachary-yt123z/My-Discord-Bot-Zachar-Bot/issues"
+  },
+  "homepage": "https://github.com/zachary-yt123z/My-Discord-Bot-Zachar-Bot#readme"
+}
